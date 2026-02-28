@@ -10,7 +10,7 @@ app.use(
     cors({
       origin: [
         "http://localhost:5173", // Vite dev
-        "https://your-frontend-domain.vercel.app", // replace later
+        "https://cab-booking-informator.netlify.app/", 
       ],
     })
   );
