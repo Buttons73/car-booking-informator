@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import InquiryForm from "../components/inquiryForm";
+import InquiryForm from "../components/InquiryForm";
 
 const THEME_KEY = "car-inquiry-theme";
 
