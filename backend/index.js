@@ -47,7 +47,7 @@ function getInquiryEmailHtml(name, phone, fromDestination, toDestination, notes)
     ? `
                 <tr>
                   <td style="padding: 12px 0; border-top: 1px solid rgba(55, 53, 47, 0.09); vertical-align: top;">
-                    <span style="font-size: 12px; font-weight: 500; color: #6b6b6b; text-transform: uppercase; letter-spacing: 0.02em;">Additional instructions / notes</span>
+                    <span style="font-size: 12px; font-weight: 500; color: #6b6b6b; text-transform: uppercase; letter-spacing: 0.02em;">Additional instructions</span>
                     <div style="font-size: 15px; color: #37352f; margin-top: 2px; white-space: pre-wrap;">${notesEscaped}</div>
                   </td>
                 </tr>`
