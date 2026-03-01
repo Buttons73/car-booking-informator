@@ -1,3 +1,4 @@
+/// <reference types="vite/client" />
 import React, { useState, type ChangeEvent, type FormEvent } from "react";
 
 type InquiryData = {
